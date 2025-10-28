@@ -332,7 +332,7 @@ def predict_next_day_price(model,latest_data):
     print(f"Latest input features used for prediction (today's data):")
     print(last_row.to_frame().T)
 
-    print(f"Predicted {TICKER} Closing Price fo the Next Trading Day:")
+    print(f"Predicted {TICKER} Closing Price for the Next Trading Day:")
     print(f"${prediction[0]:.2f} (Using {best_model_name})")
 
 
