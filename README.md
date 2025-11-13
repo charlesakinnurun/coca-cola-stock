@@ -12,6 +12,7 @@ The goal is to predict the Closing Price for the Next Trading Day
     - Handle duplicated rows
 - Pre-Training Visualization
     - Historical Close Price using Line plot
+![pre-training-visualization](/output1.png)
 - Feature Engineering
 - Data Splitting
     - 80% training and testing 20% 
@@ -30,6 +31,8 @@ The goal is to predict the Closing Price for the Next Trading Day
 - Model Training
 - Hyperparameter Tuning
 - Post-Training Visualization
+![post-training-visualization](/output2.png)
+- Model Evaluation
 - New prediction
 
 ### Usage Instructions
