@@ -72,6 +72,13 @@ You can install all dependencies via:
 pip install -r requirements.txt
 ```
 
+## Process
+![Screenshot(239)](/Screenshot%20(239).png)
+![Screenshot(240)](/Screenshot%20(240).png)
+![Screenshot(241)](/Screenshot%20(241).png)
+![Screenshot(242)](/Screenshot%20(242).png)
+![Screenshot(243)](/Screenshot%20(243).png)
+
 ## Project Structure
 ```
 coca-cola-stock/
@@ -80,7 +87,15 @@ coca-cola-stock/
 |── model.py    
 ├── requirements.txt 
 ├── LICENSE
-├── image.jpg    
+├── image.jpg  
+├── output1.png  
+├── output2.png
+├── KO_raw_data.csv
+├── Screenshot(239).png
+├── Screenshot(240).png
+├── Screenshot(241).png
+├── Screenshot(242).png
+├── Screenshot(243).png  
 └── README.md          
 ```
 ## Contributing
@@ -89,12 +104,3 @@ Please ensure your additions are accompanied by clear documentation and, where r
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file for details.
-
-
-
-## Process
-![Screenshot(239)](/Screenshot%20(239).png)
-![Screenshot(240)](/Screenshot%20(240).png)
-![Screenshot(241)](/Screenshot%20(241).png)
-![Screenshot(242)](/Screenshot%20(242).png)
-![Screenshot(243)](/Screenshot%20(243).png)
