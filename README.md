@@ -5,6 +5,13 @@
 The goal is to predict the Closing Price for the Next Trading Day
 
 ## Procedures
+- Import Libraries
+    - scikit-learn
+    - pandas
+    - numpy
+    - seaborn
+    - matplotlib
+    - yfinance
 - Data Acquistion
     - Use yfinance historical stock data
 - Data Preprocessing
