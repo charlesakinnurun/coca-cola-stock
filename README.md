@@ -42,6 +42,28 @@ The goal is to predict the Closing Price for the Next Trading Day
 - Model Evaluation
 - New prediction
 
+
+## Tech Stack and Tools
+- Programming language
+    - Python 
+- libraries
+    - scikit-learn
+    - pandas
+    - numpy
+    - seaborn
+    - matplotlib
+    - yfinace
+- Environment
+    - Jupyter Notebook
+    - Anaconda
+- IDE
+    - VSCode
+
+You can install all dependencies via:
+```
+pip install -r requirements.txt
+```
+
 ### Usage Instructions
 To run this project locally:
 1. Clone the repository:
@@ -59,32 +81,8 @@ jupyter notebook model.ipynb
 
 ```
 
-## Tools and Dependencies
-- Programming language
-    - Python 
-- libraries
-    - scikit-learn
-    - pandas
-    - numpy
-    - seaborn
-    - matplotlib
-    - yfinace
-- Environment
-    - Jupyter Notebook
-- IDE
-    - VSCode
 
-You can install all dependencies via:
-```
-pip install -r requirements.txt
-```
 
-## Process
-![Screenshot(239)](/Screenshot%20(239).png)
-![Screenshot(240)](/Screenshot%20(240).png)
-![Screenshot(241)](/Screenshot%20(241).png)
-![Screenshot(242)](/Screenshot%20(242).png)
-![Screenshot(243)](/Screenshot%20(243).png)
 
 ## Project Structure
 ```
@@ -98,16 +96,8 @@ coca-cola-stock/
 ├── output1.png  
 ├── output2.png
 ├── KO_raw_data.csv
-├── Screenshot(239).png
-├── Screenshot(240).png
-├── Screenshot(241).png
-├── Screenshot(242).png
-├── Screenshot(243).png  
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── SECURITY.md
 └── README.md          
 ```
-## Contributing
-Contributions are welcome! If you’d like to suggest improvements — e.g., new modelling algorithms, additional feature engineering, or better documentation — please open an Issue or submit a Pull Request.
-Please ensure your additions are accompanied by clear documentation and, where relevant, updated evaluation results.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file for details.
